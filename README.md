@@ -1,1 +1,1 @@
-This is a project I created to help learn about working with RPG and IBM i systems. I am completly self taught on this subject matter and I am eager to learn more!
+This is a project I created to help learn about working with RPG and IBM i systems. Simply lets the user add customers to the customer table and list the customers in the table.
